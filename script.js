@@ -61,6 +61,8 @@ function setDifficulty(){
         case "insane":
             initializePieces(40,25);
             break;    
+        case "fucking crazy":
+            initializePieces(100,50);
     }
 }
 function solveRest(){
