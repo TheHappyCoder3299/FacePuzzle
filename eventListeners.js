@@ -25,7 +25,7 @@ function onMouseDown(evt){
         }
         SELECTED_PIECE.offset={x:evt.x-SELECTED_PIECE.x,
             y:evt.y-SELECTED_PIECE.y};
-    }
+        }
 }
 function onMouseMove(evt){
     if(SELECTED_PIECE!=null){
