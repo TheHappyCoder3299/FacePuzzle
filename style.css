@@ -4,3 +4,7 @@ body
     overflow: hidden;
     overscroll-behavior: null;
 }
+#menuItems{
+    position: absolute;
+    top: 0;
+}
